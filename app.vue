@@ -1,7 +1,9 @@
 <template>
   <div>
-   Hello frrom Nuxt 
 
-   this is a new change 
+
+  <NuxtPage/>
+
+
   </div>
 </template>
