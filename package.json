@@ -9,5 +9,9 @@
   },
   "devDependencies": {
     "nuxt": "3.0.0-rc.11"
+  },
+  "dependencies": {
+    "aws-amplify": "^4.3.37",
+    "aws-amplify-vue": "^2.1.5"
   }
 }
