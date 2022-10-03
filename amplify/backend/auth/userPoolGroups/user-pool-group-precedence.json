@@ -1,0 +1,38 @@
+[
+  {
+    "groupName": "Students",
+    "precedence": 1
+  },
+  {
+    "groupName": "Admins",
+    "precedence": 2
+  },
+  {
+    "groupName": "SuperAdmins",
+    "precedence": 3
+  },
+  {
+    "groupName": "Educators",
+    "precedence": 4
+  },
+  {
+    "groupName": "TeleCallers",
+    "precedence": 5
+  },
+  {
+    "groupName": "Leads",
+    "precedence": 6
+  },
+  {
+    "groupName": "Interns",
+    "precedence": 7
+  },
+  {
+    "groupName": "Employees",
+    "precedence": 8
+  },
+  {
+    "groupName": "Affiliates",
+    "precedence": 9
+  }
+]

@@ -1,0 +1,33 @@
+{
+  "dev": {
+    "awscloudformation": {
+      "AuthRoleName": "amplify-nuxtamp-dev-104950-authRole",
+      "UnauthRoleArn": "arn:aws:iam::722406472854:role/amplify-nuxtamp-dev-104950-unauthRole",
+      "AuthRoleArn": "arn:aws:iam::722406472854:role/amplify-nuxtamp-dev-104950-authRole",
+      "Region": "ap-south-1",
+      "DeploymentBucketName": "amplify-nuxtamp-dev-104950-deployment",
+      "UnauthRoleName": "amplify-nuxtamp-dev-104950-unauthRole",
+      "StackName": "amplify-nuxtamp-dev-104950",
+      "StackId": "arn:aws:cloudformation:ap-south-1:722406472854:stack/amplify-nuxtamp-dev-104950/02055b90-42db-11ed-83f9-0a8a9b1469da",
+      "AmplifyAppId": "d4sa7lc5n1naq"
+    }
+  },
+  "nuxtenv": {
+    "awscloudformation": {
+      "AuthRoleName": "amplify-nuxtamp-nuxtenv-105258-authRole",
+      "UnauthRoleArn": "arn:aws:iam::722406472854:role/amplify-nuxtamp-nuxtenv-105258-unauthRole",
+      "AuthRoleArn": "arn:aws:iam::722406472854:role/amplify-nuxtamp-nuxtenv-105258-authRole",
+      "Region": "ap-south-1",
+      "DeploymentBucketName": "amplify-nuxtamp-nuxtenv-105258-deployment",
+      "UnauthRoleName": "amplify-nuxtamp-nuxtenv-105258-unauthRole",
+      "StackName": "amplify-nuxtamp-nuxtenv-105258",
+      "StackId": "arn:aws:cloudformation:ap-south-1:722406472854:stack/amplify-nuxtamp-nuxtenv-105258/717334c0-42db-11ed-8005-0a1f3b585a16",
+      "AmplifyAppId": "d4sa7lc5n1naq"
+    },
+    "categories": {
+      "auth": {
+        "UserAuth": {}
+      }
+    }
+  }
+}
